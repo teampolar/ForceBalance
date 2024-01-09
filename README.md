@@ -13,7 +13,7 @@ About the bedmachine dataset : "This data set, part of the NASA Making Earth Sys
         
 - Download energymodeling-production.zip and extract it to that folder
 
-Now everything is up-to-date. Check out the various scripts and simulink models. Comments are made so going over it gives a good idea of what is done. 
+Now everything is up-to-date. Check out the various scripts and simulink models. Comments are made so going over it gives a good idea of what is done. NOTE THAT THIS IS NOT DONE YET AND EVERYTHING NEEDS TO BE INTEGRATED TOGETHER.
 
 Elevationscript is the building block from which everything afterwards is determined. For now, it includes the driving route selection and velocity profiler for the Framnes mountains (one of Saef's locations). The outputs of this script are the velocity profile for the distance intervals and the slopes. These are (for now) fed into the massestimate simulink model. 
 
