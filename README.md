@@ -10,6 +10,7 @@ About the bedmachine dataset : "This data set, part of the NASA Making Earth Sys
 1. Antarctic boundaries, grounding line, and masks from InSAR
 2. Antarctic mapping tools
 3. Bedmachine
+4. Cmocean perceptually-uniform colormaps (nice mappings)
         
 - Download energymodeling-production.zip and extract it to that folder
 
