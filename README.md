@@ -1,5 +1,7 @@
 # ForceBalance
 
+![alt text](https://github.com/teampolar/ForceBalance/blob/production/BeddingRender_Framnes.png?raw=true)
+
 Hello there
 
 - First of all, stop with what you are doing and download the bedmachineantarctica data (it's on the Force balance folder in the energy management sharepoint https://teampolar.sharepoint.com/:f:/s/energymanagement/Eh3ete1hfTdLisalpbV3F24BPKMdoDVae7QeEpzpvdbjKg?e=nfVV2E). It's about 900 mb so should take a while. Put it in one folder together with all the other force balance files so matlab can access it.  
